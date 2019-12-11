@@ -1,4 +1,4 @@
 def catch_phrase
-  status
+  status = "It's-a me, Mario!"
   puts phrase
 end
