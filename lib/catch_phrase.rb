@@ -1,4 +1,4 @@
-phrase = "Its-a me, Mario!"
-def catch_phrase
+
+def catch_phrase("It's-a me, Mario!")
   puts phrase
 end
